@@ -2,10 +2,7 @@ class StaticPagesController < ApplicationController
   def home
   end
 
-  def trips
-  end
-
-  def hosts
+  def about
   end
 
   def contact
